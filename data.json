@@ -1,6 +1,6 @@
 [
     {"id": "1",
-    "name": "Jiya Sharma",
+    "name": "Jiya",
     "avatar":"https://cdn-icons-png.flaticon.com/512/9308/9308310.png",
     "msg":"hello Som",
     "date": "10/1/2023",
@@ -9,8 +9,8 @@
     "opened": false,
     "type": "audio"
 }, {"id": "2",
-    "name": "Ayush Bharti",
-    "avatar":"https://cdn-icons-png.flaticon.com/512/9308/9308310.png",
+    "name": "Ayush",
+    "avatar":"https://cdn-icons-png.flaticon.com/512/236/236832.png",
     "msg":"hello Som",
     "date": "10/1/2023",
     "count": "11",
@@ -18,8 +18,8 @@
     "opened": false,
     "type": "audio"
 }, {"id": "3",
-    "name": "Sandeep Kumar",
-    "avatar":"https://cdn-icons-png.flaticon.com/512/9308/9308310.png",
+    "name": "Sandeep",
+    "avatar":"https://cdn-icons-png.flaticon.com/512/219/219969.png",
     "msg":"hello Som",
     "date": "10/1/2023",
     "count": "11",
@@ -27,8 +27,8 @@
     "opened": false,
     "type": "audio"
 }, {"id": "4",
-    "name": "Epic Vibe",
-    "avatar":"https://cdn-icons-png.flaticon.com/512/9308/9308310.png",
+    "name": "Epic",
+    "avatar":"https://cdn-icons-png.flaticon.com/512/6997/6997662.png",
     "msg":"hello Som",
     "date": "10/1/2023",
     "count": "11",
@@ -37,7 +37,7 @@
     "type": "audio"
 }, {"id": "5",
     "name": "Vasu",
-    "avatar":"https://cdn-icons-png.flaticon.com/512/9308/9308310.png",
+    "avatar":"https://cdn-icons-png.flaticon.com/512/4202/4202831.png",
     "msg":"hello Som",
     "date": "10/1/2023",
     "count": "11",
@@ -45,8 +45,8 @@
     "opened": false,
     "type": "audio"
 }, {"id": "6",
-    "name": "Kuki mam",
-    "avatar":"https://cdn-icons-png.flaticon.com/512/9308/9308310.png",
+    "name": "Kuki",
+    "avatar":"https://cdn-icons-png.flaticon.com/512/4532/4532510.png",
     "msg":"hello Som",
     "date": "10/1/2023",
     "count": "11",
