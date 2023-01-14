@@ -17,15 +17,6 @@
     "story": true,
     "opened": false,
     "type": "audio"
-}, {"id": "3",
-    "name": "Sandeep",
-    "avatar":"https://cdn-icons-png.flaticon.com/512/219/219969.png",
-    "msg":"hello Som",
-    "date": "10/1/2023",
-    "count": "11",
-    "story": true,
-    "opened": false,
-    "type": "audio"
 }, {"id": "4",
     "name": "Epic",
     "avatar":"https://cdn-icons-png.flaticon.com/512/6997/6997662.png",
