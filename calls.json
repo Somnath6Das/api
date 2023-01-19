@@ -1,8 +1,8 @@
 [
-    {"name":"Jiya","avatar":"https://static.vecteezy.com/system/resources/thumbnails/002/002/253/small/beautiful-woman-wearing-sunglasses-avatar-character-icon-free-vector.jpg","data":"1/13/2023","outbound":"Outgoing","count":"8","type":"audio"},
+    {"name":"Jiya","avatar":"https://cdn-icons-png.flaticon.com/512/4202/4202831.png","data":"1/13/2023","outbound":"Outgoing","count":"8","type":"audio"},
     {"name":"Ayush","avatar":"https://cdn-icons-png.flaticon.com/512/236/236832.png","data":"1/13/2023","outbound":"Incoming","count":"8","type":"audio"},
     {"name":"Epic","avatar":"https://cdn-icons-png.flaticon.com/512/6997/6997662.png","data":"1/13/2023","outbound":"Outgoing","count":"8","type":"audio"},
-    {"name":"Vasu","avatar":"https://cdn-icons-png.flaticon.com/512/4202/4202831.png","data":"1/13/2023","outbound":"Missed call","count":"8","type":"audio"},
+    {"name":"Vasu","avatar":"https://cdn-icons-png.flaticon.com/512/4202/4202831.png","data":"1/13/2023","outbound":"Missed","count":"8","type":"audio"},
     {"name":"kuki","avatar":"https://cdn-icons-png.flaticon.com/512/3177/3177440.png","data":"1/13/2023","outbound":"Incoming","count":"8","type":"audio"}
    
 ]
