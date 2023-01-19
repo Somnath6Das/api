@@ -1,14 +1,14 @@
 {
     "firstname": "Jiya",
     "lastname": " Sharma",
-    "avatar": "https://cdn-icons-png.flaticon.com/512/9308/9308310.png",
+    "avatar": "https://imgv3.fotor.com/images/blog-cover-image/10-profile-picture-ideas-to-make-you-stand-out.jpg",
     "city": "Indore",
     "relationship": "Single",
     "gender": "Female",
     "job_area": "Madha Pradresh",
     "job_title": "Devoloper",
     "status": "I am fine.",
-    "story": "true",
+    "story": true,
     "stories": [
       "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&w=600",
       "https://images.pexels.com/photos/799443/pexels-photo-799443.jpeg?auto=compress&cs=tinysrgb&w=600",
